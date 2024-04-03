@@ -1,16 +1,39 @@
-### Hi there 👋
+```console
+jamesejr@starship:~/$ ./bootstrap.sh
+```
+```
+     @@@   @@@@@@   @@@@@@@@@@   @@@@@@@@   @@@@@@   
+     @@@  @@@@@@@@  @@@@@@@@@@@  @@@@@@@@  @@@@@@@   
+     @@!  @@!  @@@  @@! @@! @@!  @@!       !@@       
+     !@!  !@!  @!@  !@! !@! !@!  !@!       !@!       
+     !!@  @!@!@!@!  @!! !!@ @!@  @!!!:!    !!@@!!    
+     !!!  !!!@!!!!  !@!   ! !@!  !!!!!:     !!@!!!   
+     !!:  !!:  !!!  !!:     !!:  !!:            !:!  
+!!:  :!:  :!:  !:!  :!:     :!:  :!:           !:!   
+::: : ::  ::   :::  :::     ::    :: ::::  :::: ::   
+ : :::     :   : :   :      :    : :: ::   :: : :    
+                                                     
+                                                                           
+@@@@@@@@   @@@@@@   @@@@@@@   @@@  @@@  @@@   @@@@@@    @@@@@@    @@@@@@   
+@@@@@@@@  @@@@@@@   @@@@@@@@  @@@  @@@@ @@@  @@@@@@@@  @@@@@@@   @@@@@@@@  
+@@!       !@@       @@!  @@@  @@!  @@!@!@@@  @@!  @@@  !@@       @@!  @@@  
+!@!       !@!       !@!  @!@  !@!  !@!!@!@!  !@!  @!@  !@!       !@!  @!@  
+@!!!:!    !!@@!!    @!@@!@!   !!@  @!@ !!@!  @!@  !@!  !!@@!!    @!@!@!@!  
+!!!!!:     !!@!!!   !!@!!!    !!!  !@!  !!!  !@!  !!!   !!@!!!   !!!@!!!!  
+!!:            !:!  !!:       !!:  !!:  !!!  !!:  !!!       !:!  !!:  !!!  
+:!:           !:!   :!:       :!:  :!:  !:!  :!:  !:!      !:!   :!:  !:!  
+ :: ::::  :::: ::    ::        ::   ::   ::  ::::: ::  :::: ::   ::   :::  
+: :: ::   :: : :     :        :    ::    :    : :  :   :: : :     :   : :  
+```
 
-<!--
-**jamesejr/jamesejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+A security engineer working on threat detection and response automation.<br>
+<br>
+<a href="https://jamesejr.com">Blog</a>
+ . <a href="https://discordapp.com/users/462067475954139146">Discord</a>
+ . <a href="https://infosec.exchange/@jamesejr">Mastodon</a>
+<br>
+<br>
+<br>
+<br>
+</p>
