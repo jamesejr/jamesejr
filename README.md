@@ -33,7 +33,4 @@ A security engineer working on threat detection and response automation.<br>
  . <a href="https://discordapp.com/users/462067475954139146">Discord</a>
  . <a href="https://infosec.exchange/@jamesejr">Mastodon</a>
 <br>
-<br>
-<br>
-<br>
 </p>
